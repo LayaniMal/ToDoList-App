@@ -1,5 +1,3 @@
 # ToDoList-App
-<p align="center">
-  <img src="C:\Users\Layani Malsha\Documents\Flutter Examples\to_do">
-  
-</p>
+
+![todo](https://user-images.githubusercontent.com/25350433/62354114-fc3baa80-b4c0-11e9-805e-4360308a490d.png)
